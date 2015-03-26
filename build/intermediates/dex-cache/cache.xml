@@ -9,6 +9,13 @@
         <dex dex="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-cc8be59c2972fcfb36a500acd3381a66f60cc126.jar" />
     </item>
     <item
+        jar="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/pre-dexed/debug/classes-b856850e65572e0171c89b8e29e84499c6e43a8c.jar" />
+    </item>
+    <item
         jar="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -23,11 +30,11 @@
         <dex dex="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f5dbca2813fa3bf017c991f51f5b81b634eabef1.jar" />
     </item>
     <item
-        jar="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/pre-dexed/debug/classes-b856850e65572e0171c89b8e29e84499c6e43a8c.jar" />
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/Users/bernard/AndroidStudioProjects/Event/app/build/intermediates/pre-dexed/debug/classes-0c71e965ff7a02b8990d9e7a4811f5b4c923e2d4.jar" />
     </item>
 
 </items>
