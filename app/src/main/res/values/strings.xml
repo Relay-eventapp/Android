@@ -3,18 +3,41 @@
 
     <string name="app_name">Event</string>
     <!--Drawer titles-->
-    <string name="title_section1">Map</string>
-    <string name="title_section2">Browse</string>
-    <string name="title_section3">Feed</string>
-    <string name="title_section4">Me</string>
-    <string name="title_section5">Logout</string>
-
+    <string-array name="sections">
+        <item>Map</item>
+        <item>Discover</item>
+        <item>Feed</item>
+        <item>Me</item>
+        <item>Logout</item>
+    </string-array>
+    <string-array name="section_titles">
+        <item name="title_section1">Map</item>
+        <item name="title_section2">Discover</item>
+        <item name="title_section3">Feed</item>
+        <item name="title_section4">Me</item>
+        <item name="title_section5">Logout</item>
+    </string-array>
+    <string-array name="sections_icons">
+        <item>@android:drawable/ic_menu_mapmode</item>
+        <item>@android:drawable/ic_menu_search</item>
+        <item>@android:drawable/ic_menu_gallery</item>
+        <item>@android:drawable/ic_menu_preferences</item>
+        <item>@android:drawable/ic_lock_power_off</item>
+    </string-array>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_example">Example action</string>
+    <string name="action_event">Add New Event</string>
     <string name="action_settings">Settings</string>
 
     <string name="title_activity_maps">Map</string>
+
+    <!--New Event-->
+    <string name="event_name">Name</string>
+    <string name="event_description">Description</string>
+    <string name="event_tag">Tag</string>
+    <string name="event_done">Done</string>
+    <string name="event_cancel">Cancel</string>
+
 
 </resources>
